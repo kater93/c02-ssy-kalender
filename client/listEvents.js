@@ -1,4 +1,4 @@
-const Request = require('request');
+const axios = require('axios');
 const hostUrl = "http://localhost:3000";
 
 // Wir holen uns den Namen von der Kommandozeile
